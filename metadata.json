@@ -1,0 +1,6 @@
+{
+  "name": "आधार कार्ड मोबाइल नंबर चेक गाइड (Aadhaar Mobile Number Check Guide)",
+  "description": "आधार कार्ड में कौन सा मोबाइल नंबर लिंक है कैसे चेक करें? जानिए myAadhaar पोर्टल से ऑनलाइन मोबाइल नंबर वेरिफिकेशन का सबसे आसान स्टेप-बाय-स्टेप तरीका।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
